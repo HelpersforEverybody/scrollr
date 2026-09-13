@@ -88,6 +88,23 @@ videos come down quickly, and it keeps going in the background.
 Your downloads then get **their own vertical reel** — everything you've saved is
 watchable the same way, with no other app involved.
 
+Something you already have is recognised before it downloads again, and you choose: a second
+copy, a different name, or replacing the old file. A link that expired while it waited its
+turn in the queue is refreshed and retried instead of failing, and a site that answers a
+download with an error page has that refused rather than saved as a video. The list filters
+by **size** — B, KB, MB or GB — as well as by state, and every video on the **Found** screen
+shows whether it is saved, downloading or failed, with its size and speed.
+
+### Reads comics and galleries, not just video
+**Reader** strips a gallery page down to the pages themselves — no ads, no overlays, nothing
+to dismiss — and shows them one at a time, as a book, or as one continuous strip. It works
+out a site's full-size page addresses from the thumbnails on its index, so you read the real
+pages rather than the postage stamps, and **Next chapter** carries on without going back to
+the site.
+
+Whatever you are reading can be saved: **one PDF** of the whole chapter, in page order, or
+the pages as **separate images**.
+
 ### Blocks ads properly
 A full Adblock Plus / uBlock-style network engine, not just a host blocklist: resource
 types, first vs. third party, exception rules and per-site scoping are all honoured. It
@@ -100,6 +117,7 @@ malware lists, and you can see exactly what's loaded under **Settings ▸ Ad-blo
   incognito keep their own, so choosing Google for browsing doesn't drag it into incognito
 - **Bookmarks and history**, swipe to delete with undo
 - **Dark and light**, plus an AMOLED-black incognito look
+- **A link on your clipboard** is offered as soon as you tap the address bar
 - Desktop site, HTTPS-only, find in page, clear on exit, quick tab switch
 
 ### Built for tablets too
