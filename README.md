@@ -8,7 +8,7 @@
 watch them as a swipeable reel, and download what you want.
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Install-2E7DFF?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.scrollr)
-[![Join the testers group](https://img.shields.io/badge/Testers_Group-Join_first-0FB5BA?style=for-the-badge&logo=google&logoColor=white)](https://groups.google.com/g/scrollr)
+[![Join the testers group](https://img.shields.io/badge/Testers_Group-Join_first-0FB5BA?style=for-the-badge&logo=google&logoColor=white)](https://groups.google.com/g/mylovelytesters)
 
 </div>
 
@@ -21,7 +21,7 @@ The app isn't public yet. To install it you have to be on the tester list, and
 
 > ### Two steps, in this order
 >
-> **1 — Join the group:** <https://groups.google.com/g/scrollr>
+> **1 — Join the group:** <https://groups.google.com/g/mylovelytesters>
 > Click **Join group**, using the same Google account your phone's Play Store uses.
 >
 > **2 — Then open Play:** <https://play.google.com/store/apps/details?id=com.scrollr>
@@ -224,7 +224,7 @@ malware lists, and you can see exactly what's loaded under **Settings ▸ Ad-blo
    that one step turns a guess into a fix
 
 Feedback and feature requests are welcome in the
-[testers group](https://groups.google.com/g/scrollr) too — or straight from the app, under
+[testers group](https://groups.google.com/g/mylovelytesters) too — or straight from the app, under
 **More ▸ Help & feedback**.
 
 ---
@@ -233,7 +233,7 @@ Feedback and feature requests are welcome in the
 
 <img src="screenshots/icon.png" width="72" alt="">
 
-**[Join the group](https://groups.google.com/g/scrollr)** → **[Install from Play](https://play.google.com/store/apps/details?id=com.scrollr)**
+**[Join the group](https://groups.google.com/g/mylovelytesters)** → **[Install from Play](https://play.google.com/store/apps/details?id=com.scrollr)**
 
 <sub>This repository is the app's home page and issue tracker. The source code isn't published here.</sub>
 
